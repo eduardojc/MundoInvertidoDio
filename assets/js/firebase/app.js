@@ -5,11 +5,11 @@ import { initializeApp } from "https://www.gstatic.com/firebasejs/9.9.3/firebase
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-    apiKey: "AIzaSyAZtp8JnlMjvijRRTcvhnXQBPXXdIZZtW4",
-    authDomain: "dio-mundo-invertido-8755b.firebaseapp.com",
-    projectId: "dio-mundo-invertido-8755b",
-    storageBucket: "dio-mundo-invertido-8755b.appspot.com",
-    messagingSenderId: "692664871140",
+    apiKey: "xxx",
+    authDomain: "xxx",
+    projectId: "xxx",
+    storageBucket: "xxx",
+    messagingSenderId: "xxx",
     appId: "1:692664871140:web:9388ad268b3fe5946d64f1"
 };
 
